@@ -23,8 +23,8 @@ Este juego está desarrollado en lenguaje C y es ideal para ejecutarse en Visual
 ### Instrucciones
 
 1. Clona o descarga el proyecto
-2. Abre la carpeta en Visual Studio Code
-3. Abre una terminal y compila:
+2. Abre la carpeta en Visual Studio Code o en Replit
+3. Abre una terminal y ejecutar:
 
 
  ### Funcionalidades: 
